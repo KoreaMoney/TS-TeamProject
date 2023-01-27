@@ -30,7 +30,7 @@ const NavigationBar = () => {
               navigate('/main');
             }}
           >
-            소비지도
+            소비 지도
           </NavigationBarMenuButton>
           <NavigationBarMenuButton
             onClick={() => {

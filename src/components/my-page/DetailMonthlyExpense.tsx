@@ -61,11 +61,11 @@ const DetailMonthlyExpense = ({ year }: DetailMonthlyExpenseProps) => {
       {!isEmpty && (
         <DetailMonthlyExpenseTable>
           <DetailMonthlyExpenseTableHeader>
-            <span>언제</span>
-            <span>어디서</span>
-            <span>무엇을</span>
-            <span>얼마나</span>
-            <span>어떻게</span>
+            <span>날짜</span>
+            <span>장소</span>
+            <span>상품</span>
+            <span>사용 금액</span>
+            <span>목적</span>
             <div> </div>
           </DetailMonthlyExpenseTableHeader>
           <DetailExpenseItemContainer>
