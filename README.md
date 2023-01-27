@@ -55,6 +55,8 @@
 - axios
 - react-icons
 - firebase
+![image](https://user-images.githubusercontent.com/117058112/215064588-43a90edb-24a8-4942-851c-f621343ae064.png)
+
 
 # Type 형식
 id: string;
