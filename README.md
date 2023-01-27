@@ -55,7 +55,7 @@
 - axios
 - react-icons
 - firebase
-![image](https://user-images.githubusercontent.com/117058112/215064588-43a90edb-24a8-4942-851c-f621343ae064.png)
+
 
 
 # Type 형식
@@ -67,3 +67,6 @@ place: string;
 product: string;
 price: number;
 experience: string;
+![image](https://user-images.githubusercontent.com/117058112/215064588-43a90edb-24a8-4942-851c-f621343ae064.png)
+![image](https://user-images.githubusercontent.com/117058112/215065503-20c19a89-1e3b-48bc-8c1a-b40a2ba4dc6a.png)
+
