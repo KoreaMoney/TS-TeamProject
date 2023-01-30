@@ -1,4 +1,4 @@
-#최종 프로젝트 링크 : money-fragments-client.vercel.app
+#최종 프로젝트 링크 : https://money-fragments-client.vercel.app/
 #TeamProject
 # 1. 지출관리 웹 서비스
 리더 : 스파르타 내배캠 이정익님/
