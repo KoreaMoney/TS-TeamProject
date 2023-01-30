@@ -1,4 +1,4 @@
-#최종 프로젝트 링크 : https://money-fragments-client.vercel.app/
+
 #TeamProject
 # 1. 지출관리 웹 서비스
 리더 : 스파르타 내배캠 이정익님/
@@ -15,6 +15,14 @@
 
 #  Map API :  카카오 지도API
 사용 이유 : 네이버, 구글 Map API는 각각의 장점이 있지만, 직관적으로 참고할 DOCS자료의 양과 다양한 Custom할 수 있는 event들이 있어서 진행하였습니다.
+
+## 돈부스러기 웹페이지
+[바로가기](https://money-fragments-client.vercel.app/)
+
+## 기술스택
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/react-query-61DAFB?style=for-the-badge&logo=React Query&logoColor=white">
 
 # db설계방식
 1. JSON Server진행
